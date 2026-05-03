@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchecks.a CMakeFiles/checks.dir/src/checks/standalone_coarse_grained.cc.o CMakeFiles/checks.dir/src/checks/standalone_refinable.cc.o CMakeFiles/checks.dir/src/checks/standalone_sequential.cc.o CMakeFiles/checks.dir/src/checks/standalone_striped.cc.o CMakeFiles/checks.dir/src/checks/all.cc.o
+/usr/bin/ranlib libchecks.a

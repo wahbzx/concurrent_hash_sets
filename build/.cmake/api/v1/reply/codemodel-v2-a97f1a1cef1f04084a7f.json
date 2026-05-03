@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hashsets",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "checks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-checks-Debug-497745eac2da19d63ea7.json",
+					"name" : "checks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_coarse_grained::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_coarse_grained-Debug-dc759a7c3a3a9e1a8979.json",
+					"name" : "demo_coarse_grained",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_refinable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_refinable-Debug-4ff33c0cd7ddbc1651af.json",
+					"name" : "demo_refinable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_sequential::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_sequential-Debug-647420fa2da9f25e89af.json",
+					"name" : "demo_sequential",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_striped::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_striped-Debug-eb8e095d1420f935c01d.json",
+					"name" : "demo_striped",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "playground::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-playground-Debug-9dd2e79668e3ab546d04.json",
+					"name" : "playground",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wahbi/cw1/build",
+		"source" : "/home/wahbi/cw1/skeleton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

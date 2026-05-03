@@ -1,0 +1,8 @@
+/home/wahbi/cw1/build/CMakeFiles/checks.dir
+/home/wahbi/cw1/build/CMakeFiles/demo_sequential.dir
+/home/wahbi/cw1/build/CMakeFiles/demo_coarse_grained.dir
+/home/wahbi/cw1/build/CMakeFiles/demo_striped.dir
+/home/wahbi/cw1/build/CMakeFiles/demo_refinable.dir
+/home/wahbi/cw1/build/CMakeFiles/playground.dir
+/home/wahbi/cw1/build/CMakeFiles/edit_cache.dir
+/home/wahbi/cw1/build/CMakeFiles/rebuild_cache.dir

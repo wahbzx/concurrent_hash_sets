@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIC -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/checks.dir/src/checks/standalone_coarse_grained.cc.o -c /home/wahbi/cw1/skeleton/src/checks/standalone_coarse_grained.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/checks/standalone_coarse_grained.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIC -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/checks.dir/src/checks/standalone_refinable.cc.o -c /home/wahbi/cw1/skeleton/src/checks/standalone_refinable.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/checks/standalone_refinable.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIC -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/checks.dir/src/checks/standalone_sequential.cc.o -c /home/wahbi/cw1/skeleton/src/checks/standalone_sequential.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/checks/standalone_sequential.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIC -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/checks.dir/src/checks/standalone_striped.cc.o -c /home/wahbi/cw1/skeleton/src/checks/standalone_striped.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/checks/standalone_striped.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIC -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/checks.dir/src/checks/all.cc.o -c /home/wahbi/cw1/skeleton/src/checks/all.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/checks/all.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_sequential.dir/src/benchmark.cc.o -c /home/wahbi/cw1/skeleton/src/benchmark.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/benchmark.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_sequential.dir/src/demo_sequential.cc.o -c /home/wahbi/cw1/skeleton/src/demo_sequential.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/demo_sequential.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_coarse_grained.dir/src/benchmark.cc.o -c /home/wahbi/cw1/skeleton/src/benchmark.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/benchmark.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_coarse_grained.dir/src/demo_coarse_grained.cc.o -c /home/wahbi/cw1/skeleton/src/demo_coarse_grained.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/demo_coarse_grained.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_striped.dir/src/benchmark.cc.o -c /home/wahbi/cw1/skeleton/src/benchmark.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/benchmark.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_striped.dir/src/demo_striped.cc.o -c /home/wahbi/cw1/skeleton/src/demo_striped.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/demo_striped.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_refinable.dir/src/benchmark.cc.o -c /home/wahbi/cw1/skeleton/src/benchmark.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/benchmark.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/demo_refinable.dir/src/demo_refinable.cc.o -c /home/wahbi/cw1/skeleton/src/demo_refinable.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/demo_refinable.cc"
+},
+{
+  "directory": "/home/wahbi/cw1/build",
+  "command": "/usr/bin/clang++  -I/home/wahbi/cw1/skeleton -g -fPIE -Werror -Wall -Wextra -pedantic -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-padded -std=c++17 -o CMakeFiles/playground.dir/src/playground.cc.o -c /home/wahbi/cw1/skeleton/src/playground.cc",
+  "file": "/home/wahbi/cw1/skeleton/src/playground.cc"
+}
+]
